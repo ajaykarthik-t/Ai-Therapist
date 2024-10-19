@@ -1,0 +1,22 @@
+{
+  "pages": {
+    "/(landingPage)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(landingPage)/page.css",
+      "static/chunks/app/(landingPage)/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/(dashboard)/(routes)/newplan/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(dashboard)/(routes)/newplan/page.css",
+      "static/chunks/app/(dashboard)/(routes)/newplan/page.js"
+    ]
+  }
+}

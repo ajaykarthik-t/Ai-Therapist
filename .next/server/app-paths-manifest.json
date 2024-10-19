@@ -1,0 +1,4 @@
+{
+  "/(landingPage)/page": "app/(landingPage)/page.js",
+  "/(dashboard)/(routes)/newplan/page": "app/(dashboard)/(routes)/newplan/page.js"
+}
